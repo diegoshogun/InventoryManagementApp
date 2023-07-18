@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"wgu","l":"wgu"},{"m":"wgu","l":"wgu.controller"},{"m":"wgu","l":"wgu.model"}];updateSearchResults();
